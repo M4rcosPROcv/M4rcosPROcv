@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a student/athlete management system using Java JavaFX framework and MySQL.<br>As of now, I am in my second year pursuing my Computer Science degree and I'm aspiring to go into<br>mobile development in the future.<br><br>And as of now my favorite language is Java.<br><br>You can contact me by email: mtavares25@outlook.com<br>
+I'm currently working on a student/athlete management system using Java, JavaFX framework and MySQL.<br>As of now, I am in my second year pursuing my Computer Science degree and I'm aspiring to go into<br>mobile development in the future.<br><br>And as of now my favorite language is Java.<br><br>You can contact me by email: mtavares25@outlook.com<br>
 
 
 ## 🌐 Socials:
